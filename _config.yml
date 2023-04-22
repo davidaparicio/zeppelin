@@ -88,9 +88,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "1", specialCharacter: "", info: "ème édition", detail: "Notre ADN: Partage & Convivialité"}
- - {count: "150", specialCharacter: "+", info: "participants attendus", detail: "de toute la France"}
+ - {count: "210", specialCharacter: "+", info: "participants attendus", detail: "de toute la France"}
  - {count: "8", specialCharacter: "+", info: "heures", detail: "de Tech et pas que !"}
- - {count: "16", specialCharacter: "+", info: "orateurs", detail: "de France et d'ailleurs"}
+ - {count: "32", specialCharacter: "+", info: "orateurs", detail: "de France et d'ailleurs"}
 # - {count: "1", specialCharacter: "", info: "piste", detail: "pour plus de découvertes"}
 
 # Latest News Block
@@ -139,7 +139,7 @@ partnersTitle: "Partenaires"
 partnersC4sponsorsButton: "Devenir un sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
+subscribeImage: "lyon.jpg"
 subscribeTitle: "S'inscrire à la newsletter"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Les inscriptions seront ouvertes très bientôt. Le nombre de billets est limité. Restez à l'écoute !"
@@ -208,7 +208,7 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code de conduite"}
 
 # Blog
-blogTitle: "Dernières news"
+blogTitle: "Dernières nouvelles"
 blogCommentsEnabled: false
 discusShortName: "cloudalpes"
 
@@ -232,32 +232,32 @@ logisticsMapMobileCenterCoordinates: "45.7824569,4.8720491"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Aller à Lyon"
+directionDetailsImage: "lyon.jpg" #direction-details.jpg"
+directionDetailsTitle: "Se rendre à Lyon"
 directionDetailsCards:
- - {title: "Depuis l'aéroport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "En transports publics", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Depuis l'aéroport", information: "L'aéroport est situé à la frontière de la ville. Il est facilement accessible en voiture, en transports publics ou en taxi. Plus d'informations sont disponibles à l'adresse suivante <a href='https://www.lyonaeroports.com/'>site web de l'Aéroport Saint-Exupéry</a>."}
+ - {title: "En transports publics", information: "<a href='https://citymapper.com/lyon'>Citymapper</a> est disponible à Lyon. Vous pouvez donc trouver votre chemin dans <a href='https://citymapper.com/lyon'>Citymapper</a> ou sur le site des <a href='https://www.tcl.fr/itineraires'>TCL</a>. De plus, vous pouvez télécharger n'importe quelle application de transport public hors ligne disponible pour Lyon."}
+ - {title: "Hôtels", information: "Lyon dispose de nombreux hôtels et auberges de jeunesse de qualité. De plus amples informations seront disponibles ultérieurement."}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Des questions?"
   subCards:
    -
-    title: "Hotels"
+    title: "Hôtels"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
-    title: "Registration"
+    title: "Enregistrement"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
-    title: "Attendance Details"
+    title: "Détails pour les participants"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}

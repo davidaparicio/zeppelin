@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Ne jouez pas au con
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Cette politique "Ne soyez pas un imbécile" est une version abrégée et plus décontractée de la politique du code de conduite, qui est plus longue. [Lire la version complète](https://meta.wikimedia.org/wiki/Ne_jouez_pas_au_con_!).__
 
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+Cloud Alpes est fière d'être une communauté ouverte, respectueuse et inclusive. Cela signifie que les comportements brusques ne sont pas autorisés lors des réunions. Parce que nous savons que ce n'est pas évident pour tout le monde, voici un rappel des choses que nous n'autorisons pas : les blagues ou les commentaires offensants sur le sexe/la sexualité/la race/la religion/la nationalité/la taille du corps, montrer du porno en public, toucher les gens sans y être invité, ou continuer à interagir avec quelqu'un après qu'il vous ait demandé d'arrêter. Un comportement saccadé continu peut entraîner l'expulsion de la réunion ou du chapitre de la conférence.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Si quelqu'un vous importune, veuillez en informer immédiatement les organisateurs du Cloud Alpes, qui s'en chargeront. Nous voulons maintenir le caractère génial du Cloud Alpes.
 
 
-######Contacts:
+###### Contacts:
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+- Équipe Cloud Alpes, [cloudalpes@gmail.com](mailto:cloudalpes@gmail.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">

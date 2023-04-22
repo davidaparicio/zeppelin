@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Appel à contributions / Call for Papers"
+date:   2023-04-23 09:00:00
+isStaticPost: false
+---
+CloudAlpes se tiendra le jeudi 6 Septembre sur le campus de la Doua, à l'INSA de Lyon. Si vous souhaitez participer à ce grand événement en tant que conférencier, vous avez frappé à la bonne porte.
+
+#### Présentateurs - qui devrait prendre la parole lors de la conférence CloudAlpes ?
+
+* développeurs (indépendants et salariés)
+* les entreprises qui développent des logiciels (applications, outils, frameworks, etc.)
+* les instituts de recherche ayant des activités liées avec le Cloud ou les pratiques DevOps
+* les entreprises, les organisations et les particuliers qui utilisent les technologies modernes
+
+Si vous appartenez à l'un de ces groupes, vous êtes cordialement invité à soumettre une proposition d'exposé (ou plusieurs propositions). Un comité de programme indépendant évalue les propositions et sélectionne les exposés qui seront présentés lors de la conférence.<br/>
+
+Pour notre première année, nous visons 150 participants pour une vingtaine de sujets sur une journée de conférence. Et plus si les conditions le permettent 😉 L'équipe travaille déjà à organiser un moment convivial et sympa avec pas mal de surprises !
+
+#### Thèmes et sujets - à quoi s'attendre ?
+Notre équipe a préparé une série de sujets intéressants, mais si vous avez une idée intéressante à partager qui ne figure pas dans cette liste, n'hésitez pas à la soumettre également.
+
+##### Cloud / DevOps
+
+__Je vais te la déployer ton appli, moi !__
+
+##### Architecture
+
+__Excusez-moi, mais vous êtes en train d’uriner sur mes dessins__
+
+##### Méthodes et pratiques de développement
+
+__Quand te reverrai-je, pays merveilleux, où ceux qui s’aiment, vivent *DD…__
+
+##### Hors pistes
+
+__Si tu veux un conseil, oublie que t'as aucune chance. On sait jamais, sur un malentendu ça peut marcher.__
+
+#### Veuillez soumettre vos propositions [ici](https://s.42l.fr/cloudalpes2023cfp).
+__Date limite__ le 1er Juin 2023
+
+__Veuillez noter:__ qu'il n'y a aucune garantie qu'une proposition soit inscrite à l'ordre du jour de la conférence !!<br/>
+
+Le comité de programme sélectionne les propositions de conférences les plus intéressantes et informe les auteurs sélectionnés jusqu'au 15 juin 2023.<br/>
+
+#### Avez-vous des questions ?
+Envoyez un courriel aux organisateurs à l'adresse suivante [cloudalpes@gmail.com](mailto:cloudalpes@gmail.com)

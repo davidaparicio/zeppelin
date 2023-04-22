@@ -1,4 +1,10 @@
-name: GH Pages CI
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+name: Deploy Jekyll site to GitHub Pages
 
 on:
   push:
@@ -11,11 +17,18 @@ on:
     - cron: "37 13 * * 3"
 
 # Fix jekyll-action: failed to publish artifacts 403 Resource not accessible by integration
-# fatal: unable to access 'repo_url': The requested URL returned error: 403
+# Grant GITHUB_TOKEN the permissions required to make a Pages deployment
 permissions:
-  contents: write
-  packages: write
-  deployments: write
+  pages: write      # to deploy to Pages
+  id-token: write   # to verify the deployment originates from an appropriate source
+  contents: write    # fatal: unable to access 'repo_url': The requested URL returned error: 403
+  #packages: write
+  #deployments: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   jekyll:
@@ -42,5 +55,21 @@ jobs:
         # Specify the Jekyll source location as a parameter
         #jekyll_src: 'sample_site'
 
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    # https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site    
+    # Automatically uploads an artifact from the './_site' directory by default
+    #- name: Upload artifact
+    #  uses: actions/upload-pages-artifact@v1
+
+    # https://github.com/actions/deploy-pages#usage
+    #- name: Deploy to GitHub Pages
+    #  id: deployment
+    #  uses: actions/deploy-pages@v2 # or the latest "vX.X.X" version tag for this action
+    
 #https://jekyllrb.com/docs/continuous-integration/github-actions/
 #https://github.com/MichaelCurrin/jekyll-actions-quickstart
+#https://github.com/Arishti-Live/arishti-live.github.io/blob/master/.github/workflows/jekyll.yml
