@@ -1,17 +1,17 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "David"
+  surname: "Aparicio"
+  title: "Vice-président et Webmaster"
+  thumbnailUrl: DavidAparicio.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+  #  - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/dadideo"}
+    - {name: "github", link: "https://github.com/davidaparicio"}
+    - {name: "site", link: "davidaparicio.gitlab.io/"}
 - 
   id: 1
   name: "Oleh"
