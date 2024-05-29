@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Alpes 2023</title>
+    <description>Cloud Alpes, c'est l'événement qui se tient à Lyon et dédié à la Tech avec pour thématique le Cloud, l’Architecture et tout ce qui se rapporte aux pratiques de développement : Finops, Greenops, Serverless, Cloud Native, technique de déploiement, sécurisation…</description>
+    <link>https://cloudalpes.fr/zeppelin/</link>
+    <atom:link href="https://cloudalpes.fr/zeppelin/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Appel à contributions / Call for Papers</title>
+        <description>&lt;p&gt;CloudAlpes se tiendra le jeudi 6 Septembre sur le campus de la Doua, à l’INSA de Lyon. Si vous souhaitez participer à ce grand événement en tant que conférencier, vous avez frappé à la bonne porte.&lt;/p&gt;
+
+&lt;h4 id=&quot;présentateurs---qui-devrait-prendre-la-parole-lors-de-la-conférence-cloudalpes-&quot;&gt;Présentateurs - qui devrait prendre la parole lors de la conférence CloudAlpes ?&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;développeurs (indépendants et salariés)&lt;/li&gt;
+  &lt;li&gt;les entreprises qui développent des logiciels (applications, outils, frameworks, etc.)&lt;/li&gt;
+  &lt;li&gt;les instituts de recherche ayant des activités liées avec le Cloud ou les pratiques DevOps&lt;/li&gt;
+  &lt;li&gt;les entreprises, les organisations et les particuliers qui utilisent les technologies modernes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Si vous appartenez à l’un de ces groupes, vous êtes cordialement invité à soumettre une proposition d’exposé (ou plusieurs propositions). Un comité de programme indépendant évalue les propositions et sélectionne les exposés qui seront présentés lors de la conférence.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour notre première année, nous visons 150 participants pour une vingtaine de sujets sur une journée de conférence. Et plus si les conditions le permettent 😉 L’équipe travaille déjà à organiser un moment convivial et sympa avec pas mal de surprises !&lt;/p&gt;
+
+&lt;h4 id=&quot;thèmes-et-sujets---à-quoi-sattendre-&quot;&gt;Thèmes et sujets - à quoi s’attendre ?&lt;/h4&gt;
+&lt;p&gt;Notre équipe a préparé une série de sujets intéressants, mais si vous avez une idée intéressante à partager qui ne figure pas dans cette liste, n’hésitez pas à la soumettre également.&lt;/p&gt;
+
+&lt;h5 id=&quot;cloud--devops&quot;&gt;Cloud / DevOps&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Je vais te la déployer ton appli, moi !&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;architecture&quot;&gt;Architecture&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Excusez-moi, mais vous êtes en train d’uriner sur mes dessins&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;méthodes-et-pratiques-de-développement&quot;&gt;Méthodes et pratiques de développement&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Quand te reverrai-je, pays merveilleux, où ceux qui s’aiment, vivent *DD…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;hors-pistes&quot;&gt;Hors pistes&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Si tu veux un conseil, oublie que t’as aucune chance. On sait jamais, sur un malentendu ça peut marcher.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;veuillez-soumettre-vos-propositions-ici&quot;&gt;Veuillez soumettre vos propositions &lt;a href=&quot;https://s.42l.fr/cloudalpes2023cfp&quot;&gt;ici&lt;/a&gt;.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Date limite&lt;/strong&gt; le 1er Juin 2023&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Veuillez noter:&lt;/strong&gt; qu’il n’y a aucune garantie qu’une proposition soit inscrite à l’ordre du jour de la conférence !!&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le comité de programme sélectionne les propositions de conférences les plus intéressantes et informe les auteurs sélectionnés jusqu’au 15 juin 2023.&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;avez-vous-des-questions-&quot;&gt;Avez-vous des questions ?&lt;/h4&gt;
+&lt;p&gt;Envoyez un courriel aux organisateurs à l’adresse suivante &lt;a href=&quot;mailto:cloudalpes@gmail.com&quot;&gt;cloudalpes@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Apr 2023 09:00:00 +0000</pubDate>
+        <link>https://cloudalpes.fr/zeppelin/blog/cfp</link>
+        <guid isPermaLink="true">https://cloudalpes.fr/zeppelin/blog/cfp</guid>
+      </item>
+    
+      <item>
+        <title>Bonjour Lyon!</title>
+        <description>&lt;p&gt;Nous sommes très enthousiastes - non seulement en raison de la quantité démesurée de produits à base de caféine que nous consommons - mais aussi parce que notre équipe est en train de mettre au point un nouveau projet, le &lt;a href=&quot;https://cloudalpes.fr&quot;&gt;Cloud Alpes 2023&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cette année, l’événement aura lieu dans la capitale gauloise, Lyon. Ville européenne unique en France avec son parc urbain, Lyon figure parmi les 10 meilleures villes pour passer des week-ends en Europe selon Lonely Planet. Prenez donc le temps de passer un week-end dans ce joyau caché de l’Europe en compagnie d’experts et de techniciens.&lt;/p&gt;
+
+&lt;p&gt;Devriez-vous donc vous réjouir vous aussi ? Et bien oui… et voici pourquoi !&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Participation&lt;/strong&gt; : nous attendons plus de 200 participants&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt; : plus de 8 heures de technologies DevOps/Cloud.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt; : 6 Septembre 2023.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Venue&lt;/strong&gt; : Amphi Gaston Berger, INSA Lyon - pour la première fois, nous organiserons un événement technique dans un vrai amphithéatre, directement au cœur du campus de La Doua.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Intervenants&lt;/strong&gt; : nous sommes en train de finaliser la liste des intervenants.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;mais nous avons déjà obtenu un premier groupe d’experts :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;David Aparicio&lt;/strong&gt; - DataOps à OVHcloud, qui aime les technologies Cloud ainsi que les sujets de souveraineté: numérique, data et technologique.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Plus de détails sur les intervenants de Cloud Alpes 2023 apparaîtront dans les prochains articles. En attendant, aimez-nous sur &lt;a href=&quot;https://facebook.com/CloudAlpes&quot;&gt;Facebook&lt;/a&gt;, suivez-nous sur &lt;a href=&quot;https://twitter.com/intent/user?screen_name=CloudAlpes&quot;&gt;Twitter&lt;/a&gt;, ou abonnez-vous à notre &lt;a href=&quot;http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;amp;id=ae0fb459fc&quot;&gt;liste de diffusion&lt;/a&gt; et à notre &lt;a href=&quot;https://cloudalpes.fr/feed.xml&quot;&gt;flux RSS&lt;/a&gt; afin de ne rien manquer de ce qui se passera pour cette conférence.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Apr 2023 08:00:00 +0000</pubDate>
+        <link>https://cloudalpes.fr/zeppelin/blog/bonjour-lyon</link>
+        <guid isPermaLink="true">https://cloudalpes.fr/zeppelin/blog/bonjour-lyon</guid>
+      </item>
+    
+  </channel>
+</rss>
